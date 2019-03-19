@@ -1,0 +1,711 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3923e43d-cd3e-49c2-bc5a-3de6cebf7c7a" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/iyy2/composer.json</pharConfigPath>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1564283513">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="6" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.28" value="1" />
+          <entry key="project.open.time.29" value="1" />
+          <entry key="project.open.time.30" value="1" />
+          <entry key="project.open.time.33" value="1" />
+          <entry key="project.open.time.39" value="1" />
+          <entry key="project.open.time.46" value="1" />
+          <entry key="project.open.time.47" value="1" />
+          <entry key="project.open.time.48" value="1" />
+          <entry key="project.open.time.50" value="1" />
+          <entry key="project.open.time.61" value="1" />
+          <entry key="project.opened" value="11" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="dist" value="1" />
+          <entry key="json" value="2" />
+          <entry key="php" value="142" />
+          <entry key="twig" value="2" />
+          <entry key="yaml" value="13" />
+          <entry key="yml" value="22" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JSON" value="2" />
+          <entry key="PHP" value="142" />
+          <entry key="Twig" value="2" />
+          <entry key="XML" value="1" />
+          <entry key="YAML" value="35" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="4" />
+          <entry key="php" value="5436" />
+          <entry key="yml" value="195" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="PHP" value="5436" />
+          <entry key="PLAIN_TEXT" value="4" />
+          <entry key="YAML" value="195" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tests/unit/MessageCheckerTest2Test.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="304">
+              <caret line="39" column="5" lean-forward="true" selection-start-line="39" selection-start-column="5" selection-end-line="39" selection-end-column="5" />
+              <folding>
+                <element signature="e#28#51#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Helper/MessageChecker.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="624">
+              <caret line="52" column="1" lean-forward="true" selection-start-line="52" selection-start-column="1" selection-end-line="52" selection-end-column="1" />
+              <folding>
+                <element signature="e#30#53#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/vendor/symfony/validator/Validator/ValidatorInterface.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-60">
+              <caret line="28" column="6" lean-forward="true" selection-start-line="28" selection-start-column="6" selection-end-line="28" selection-end-column="6" />
+              <folding>
+                <element signature="e#288#331#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/vendor/symfony/validator/ConstraintViolationListInterface.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="12" selection-start-line="12" selection-end-line="12" />
+              <folding>
+                <element signature="e#7#236#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/vendor/symfony/validator/ConstraintViolationList.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="840">
+              <caret line="49" lean-forward="true" selection-start-line="49" selection-end-line="49" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/vendor/symfony/validator/ConstraintViolationInterface.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="700">
+              <caret line="35" column="1" lean-forward="true" selection-start-line="35" selection-start-column="1" selection-end-line="35" selection-end-column="1" />
+              <folding>
+                <element signature="e#7#236#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>get</find>
+      <find>get(</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/adapt" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/tests/FirstTest.php" />
+        <option value="$PROJECT_DIR$/vendor/bin/tests/acceptance.suite.yml" />
+        <option value="$PROJECT_DIR$/vendor/bin/tests/unit/ChekerTest.php" />
+        <option value="$PROJECT_DIR$/vendor/bin/tests/api/CreateUserCest.php" />
+        <option value="$PROJECT_DIR$/vendor/bin/tests/api/TestAPI.php" />
+        <option value="$PROJECT_DIR$/vendor/bin/tests/acceptance/DefaultCept.php" />
+        <option value="$PROJECT_DIR$/vendor/bin/tests/api.suite.yml" />
+        <option value="$PROJECT_DIR$/vendor/bin/tests/api/ApiTesterCept.php" />
+        <option value="$PROJECT_DIR$/vendor/bin/tests/api/sendMessageTest.php" />
+        <option value="$PROJECT_DIR$/vendor/bin/tests/unit/checkTest.php" />
+        <option value="$PROJECT_DIR$/vendor/bin/tests/api/sendMessageTestCept.php" />
+        <option value="$PROJECT_DIR$/vendor/bin/tests/unit/MessageCheckerTest.php" />
+        <option value="$PROJECT_DIR$/tests/unit/MessageCheckerTest.php" />
+        <option value="$PROJECT_DIR$/tests/acceptance.suite.yml" />
+        <option value="$PROJECT_DIR$/tests/api.suite.yml" />
+        <option value="$PROJECT_DIR$/tests/acceptance/Default2Cept.php" />
+        <option value="$PROJECT_DIR$/tests/api/ApiTesterCept.php" />
+        <option value="$PROJECT_DIR$/src/Controller/ApiController.php" />
+        <option value="$PROJECT_DIR$/tests/acceptance/DefaultCept.php" />
+        <option value="$PROJECT_DIR$/tests/api/sendMessageTestCept.php" />
+        <option value="$PROJECT_DIR$/tests/api/sendMessageTest2Cept.php" />
+        <option value="$PROJECT_DIR$/tests/unit/MessageCheckerTestCest.php" />
+        <option value="$PROJECT_DIR$/tests/api/sendMessageAllFieldsRequiredCept.php" />
+        <option value="$PROJECT_DIR$/tests/api/sendMessageAllFieldsEmptyCept.php" />
+        <option value="$PROJECT_DIR$/src/Controller/DefaultController.php" />
+        <option value="$PROJECT_DIR$/vendor/symfony/validator/ConstraintViolation.php" />
+        <option value="$PROJECT_DIR$/vendor/symfony/validator/ConstraintViolationListInterface.php" />
+        <option value="$PROJECT_DIR$/tests/unit/asdTest.php" />
+        <option value="$PROJECT_DIR$/src/Helper/MessageChecker.php" />
+        <option value="$PROJECT_DIR$/vendor/symfony/validator/ConstraintViolationInterface.php" />
+        <option value="$PROJECT_DIR$/tests/unit/MessageCheckerTest2Test.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/iyy2/vendor/ezyang/htmlpurifier" />
+      <path value="$PROJECT_DIR$/iyy2/vendor/theseer/tokenizer" />
+      <path value="$PROJECT_DIR$/iyy2/vendor/symfony/yaml" />
+      <path value="$PROJECT_DIR$/iyy2/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/iyy2/vendor/symfony/dom-crawler" />
+      <path value="$PROJECT_DIR$/iyy2/vendor/symfony/browser-kit" />
+      <path value="$PROJECT_DIR$/iyy2/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/iyy2/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/iyy2/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/iyy2/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/iyy2/vendor/phar-io/version" />
+      <path value="$PROJECT_DIR$/iyy2/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/iyy2/vendor/phar-io/manifest" />
+      <path value="$PROJECT_DIR$/iyy2/vendor/symfony/debug" />
+      <path value="$PROJECT_DIR$/iyy2/vendor/symfony/css-selector" />
+      <path value="$PROJECT_DIR$/iyy2/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/iyy2/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/iyy2/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/iyy2/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/iyy2/vendor/sebastian/resource-operations" />
+      <path value="$PROJECT_DIR$/iyy2/vendor/sebastian/object-reflector" />
+      <path value="$PROJECT_DIR$/iyy2/vendor/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/iyy2/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/iyy2/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/iyy2/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/iyy2/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/iyy2/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/iyy2/vendor/egulias/email-validator" />
+      <path value="$PROJECT_DIR$/iyy2/vendor/composer" />
+      <path value="$PROJECT_DIR$/iyy2/vendor/ralouphie/getallheaders" />
+      <path value="$PROJECT_DIR$/iyy2/vendor/fzaninotto/faker" />
+      <path value="$PROJECT_DIR$/iyy2/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/iyy2/vendor/bower-asset/inputmask" />
+      <path value="$PROJECT_DIR$/iyy2/vendor/bower-asset/jquery" />
+      <path value="$PROJECT_DIR$/iyy2/vendor/bower-asset/bootstrap" />
+      <path value="$PROJECT_DIR$/iyy2/vendor/bower-asset/yii2-pjax" />
+      <path value="$PROJECT_DIR$/iyy2/vendor/bower-asset/punycode" />
+      <path value="$PROJECT_DIR$/iyy2/vendor/bower-asset/typeahead.js" />
+      <path value="$PROJECT_DIR$/iyy2/vendor/phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/iyy2/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/iyy2/vendor/behat/gherkin" />
+      <path value="$PROJECT_DIR$/iyy2/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/iyy2/vendor/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/iyy2/vendor/codeception/base" />
+      <path value="$PROJECT_DIR$/iyy2/vendor/codeception/verify" />
+      <path value="$PROJECT_DIR$/iyy2/vendor/codeception/stub" />
+      <path value="$PROJECT_DIR$/iyy2/vendor/codeception/phpunit-wrapper" />
+      <path value="$PROJECT_DIR$/iyy2/vendor/swiftmailer/swiftmailer" />
+      <path value="$PROJECT_DIR$/iyy2/vendor/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/iyy2/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/iyy2/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/iyy2/vendor/yiisoft/yii2-swiftmailer" />
+      <path value="$PROJECT_DIR$/iyy2/vendor/yiisoft/yii2-gii" />
+      <path value="$PROJECT_DIR$/iyy2/vendor/yiisoft/yii2-debug" />
+      <path value="$PROJECT_DIR$/iyy2/vendor/yiisoft/yii2-composer" />
+      <path value="$PROJECT_DIR$/iyy2/vendor/yiisoft/yii2-faker" />
+      <path value="$PROJECT_DIR$/iyy2/vendor/yiisoft/yii2-bootstrap" />
+      <path value="$PROJECT_DIR$/iyy2/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/iyy2/vendor/yiisoft/yii2" />
+      <path value="$PROJECT_DIR$/iyy2/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/iyy2/vendor/phpunit/phpunit-mock-objects" />
+      <path value="$PROJECT_DIR$/iyy2/vendor/phpunit/php-token-stream" />
+      <path value="$PROJECT_DIR$/iyy2/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/iyy2/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/iyy2/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/iyy2/vendor/cebe/markdown" />
+      <path value="$PROJECT_DIR$/iyy2/vendor/phpspec/prophecy" />
+      <path value="$PROJECT_DIR$/iyy2/vendor/phpspec/php-diff" />
+    </include_path>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="260" />
+    <option name="y" value="20" />
+    <option name="width" value="1400" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="htdocs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="htdocs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="htdocs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="htdocs" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="htdocs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="htdocs" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="htdocs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="htdocs" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Helper" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="htdocs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="htdocs" type="462c0819:PsiDirectoryNode" />
+              <item name="tests" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="htdocs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="htdocs" type="462c0819:PsiDirectoryNode" />
+              <item name="tests" type="462c0819:PsiDirectoryNode" />
+              <item name="unit" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="htdocs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="htdocs" type="462c0819:PsiDirectoryNode" />
+              <item name="vendor" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\xammp\htdocs" />
+      <recent name="F:\xammp\htdocs\tests" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="PHP Script.defaultAllFieldsEmptyCept.php.php">
+    <configuration name="MessageCheckerTest" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner class="App\Tests\MessageCheckerTest" file="$PROJECT_DIR$/tests/unit/MessageCheckerTest.php" scope="Class" />
+      <method v="2" />
+    </configuration>
+    <configuration name="defaultAllFieldsEmptyCept.php.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/tests/acceptance/defaultAllFieldsEmptyCept.php.php">
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="PHPUnit.MessageCheckerTest" />
+      <item itemvalue="PHP Script.defaultAllFieldsEmptyCept.php.php" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="PHP Script.defaultAllFieldsEmptyCept.php.php" />
+        <item itemvalue="PHPUnit.MessageCheckerTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3923e43d-cd3e-49c2-bc5a-3de6cebf7c7a" name="Default Changelist" comment="" />
+      <created>1550821439536</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1550821439536</updated>
+      <workItem from="1550821441218" duration="5104000" />
+      <workItem from="1551079361231" duration="4441000" />
+      <workItem from="1551252754777" duration="6176000" />
+      <workItem from="1552290839788" duration="20401000" />
+      <workItem from="1552373836098" duration="29947000" />
+      <workItem from="1552546072277" duration="18260000" />
+      <workItem from="1552570912845" duration="3104000" />
+      <workItem from="1552632731424" duration="28455000" />
+      <workItem from="1552721271856" duration="24349000" />
+      <workItem from="1552815063130" duration="7423000" />
+      <workItem from="1552889875023" duration="45482000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="193142000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21162046" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.329718" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" sideWeight="0.49733475" visible="true" weight="0.14099783" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5026652" side_tool="true" weight="0.44902387" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" weight="0.32995737" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21162046" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.329718" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" sideWeight="0.49733475" visible="true" weight="0.07592191" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5026652" side_tool="true" weight="0.44902387" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" weight="0.32995737" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/vendor/symfony/framework-bundle/Controller/ControllerTrait.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-303">
+          <caret line="87" column="31" selection-start-line="87" selection-start-column="31" selection-end-line="87" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/routes/dev/twig.yaml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/routes/annotations.yaml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/bin/tests/api/cestTest.php" />
+    <entry file="file://$PROJECT_DIR$/vendor/bin/tests/_support/_generated/ApiTesterActions.php" />
+    <entry file="file://$PROJECT_DIR$/vendor/bin/tests/_support/ApiTester.php" />
+    <entry file="file://$PROJECT_DIR$/vendor/bin/tests/api.suite.yml" />
+    <entry file="file://$PROJECT_DIR$/vendor/bin/tests/api/sendMessageTest.php" />
+    <entry file="file://$PROJECT_DIR$/vendor/bin/tests/unit/ChekerTest.php" />
+    <entry file="file://$PROJECT_DIR$/vendor/bin/tests/acceptance/DefaultCept.php" />
+    <entry file="file://$PROJECT_DIR$/vendor/bin/tests/unit.suite.yml" />
+    <entry file="file://$PROJECT_DIR$/vendor/bin/tests/_support/Helper/Unit.php" />
+    <entry file="file://$PROJECT_DIR$/vendor/phpunit/phpunit/src/Framework/Assert.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-116">
+          <caret line="1556" column="27" selection-start-line="1556" selection-start-column="27" selection-end-line="1556" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/bin/tests/unit/checkTest.php" />
+    <entry file="file://$PROJECT_DIR$/tests/tests/api/ApiTesterCept.php" />
+    <entry file="file://$PROJECT_DIR$/tests/functional.suite.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="11" column="27" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/bin/tests/api/ApiTesterCept.php" />
+    <entry file="file://$PROJECT_DIR$/vendor/bin/tests/api/sendMessageTestCept.php" />
+    <entry file="file://$PROJECT_DIR$/codeception.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/bin/tests/unit/MessageCheckerTest.php" />
+    <entry file="file://$PROJECT_DIR$/tests/api/ApiTesterCeptTest.php" />
+    <entry file="file://$PROJECT_DIR$/tests/api.suite.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/acceptance.suite.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/_support/AcceptanceTester.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="1" column="19" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Controller/ApiController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="166">
+          <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/composer.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/symfony/http-foundation/Request.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2229">
+          <caret line="690" column="67" lean-forward="true" selection-start-line="690" selection-start-column="67" selection-end-line="690" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/api/sendMessageAllFieldsRequiredCept2.php" />
+    <entry file="file://$PROJECT_DIR$/tests/unit/MessageCheckerTest3Test.php" />
+    <entry file="file://$PROJECT_DIR$/tests/unit/MessageCheckerTest.php" />
+    <entry file="file://$PROJECT_DIR$/tests/api/ApiTesterGetStatusOkCept.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="6" column="43" selection-start-line="6" selection-start-column="43" selection-end-line="6" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/acceptance/defaultAllFieldsRequiredCept.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/acceptance/defaultAllFieldsEmptyCept.php.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/api/sendMessageAllFieldsEmptyCept.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/api/sendMessageAllFieldsRequiredCept.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="4" column="47" lean-forward="true" selection-start-line="4" selection-start-column="47" selection-end-line="4" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/Core/Core_c.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="580">
+          <caret line="634" column="19" lean-forward="true" selection-start-line="628" selection-start-column="6" selection-end-line="634" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/symfony/validator/Validator/ContextualValidatorInterface.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="700">
+          <caret line="47" column="7" lean-forward="true" selection-start-line="47" selection-start-column="7" selection-end-line="47" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/symfony/validator/Mapping/Factory/MetadataFactoryInterface.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="21" column="10" selection-start-line="21" selection-start-column="10" selection-end-line="21" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/codeception/codeception/src/Codeception/Subscriber/ErrorHandler.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-793">
+          <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/standard/standard_8.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="699" column="9" selection-start-line="699" selection-start-column="9" selection-end-line="699" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Controller/DefaultController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="41" lean-forward="true" selection-start-line="41" selection-end-line="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Entity/Message.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-120">
+          <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/symfony/validator/ConstraintViolation.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="22" column="24" lean-forward="true" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/unit/asdCest.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/unit/asdTest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="58" column="46" lean-forward="true" selection-start-line="58" selection-start-column="46" selection-end-line="58" selection-end-column="46" />
+          <folding>
+            <element signature="e#27#56#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/symfony/validator/Validator/ValidatorInterface.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-60">
+          <caret line="28" column="6" lean-forward="true" selection-start-line="28" selection-start-column="6" selection-end-line="28" selection-end-column="6" />
+          <folding>
+            <element signature="e#288#331#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/symfony/validator/ConstraintViolationListInterface.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="e#7#236#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/symfony/validator/ConstraintViolationList.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="840">
+          <caret line="49" lean-forward="true" selection-start-line="49" selection-end-line="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/symfony/validator/ConstraintViolationInterface.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="700">
+          <caret line="35" column="1" lean-forward="true" selection-start-line="35" selection-start-column="1" selection-end-line="35" selection-end-column="1" />
+          <folding>
+            <element signature="e#7#236#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/unit/MessageCheckerTest2Test.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="39" column="5" lean-forward="true" selection-start-line="39" selection-start-column="5" selection-end-line="39" selection-end-column="5" />
+          <folding>
+            <element signature="e#28#51#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Helper/MessageChecker.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="624">
+          <caret line="52" column="1" lean-forward="true" selection-start-line="52" selection-start-column="1" selection-end-line="52" selection-end-column="1" />
+          <folding>
+            <element signature="e#30#53#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

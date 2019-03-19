@@ -1,0 +1,37 @@
+{% extends 'base.html.twig' %}
+
+{% block title %}Support{% endblock %}
+
+{% block body %}
+    <section class="section">
+        <div class="container">
+            {% for message in app.flashes('sent') %}
+                <div class="notification is-{{ message == 'Success!' ? 'success' : 'danger' }}">
+                    {{ message }}
+                </div>
+            {% endfor %}
+
+            {{ form_start(form) }}
+            <div class="field">
+                {{ form_label(form.name, 'Name', {'attr': {'class': 'label'}}) }}
+                <div class="control">
+                    {{ form_widget(form.name, {'attr': {'class': 'input'}}) }}
+                </div>
+            </div>
+            <div class="field">
+                {{ form_label(form.email, 'Email', {'attr': {'class': 'label'}}) }}
+                <div class="control">
+                    {{ form_widget(form.email, {'attr': {'class': 'input'}}) }}
+                </div>
+            </div>
+            <div class="field">
+                {{ form_label(form.message, 'Message', {'attr': {'class': 'label'}}) }}
+                <div class="control">
+                    {{ form_widget(form.message, {'attr': {'class': 'textarea'}}) }}
+                </div>
+            </div>
+            {{ form_end(form) }}
+
+        </div>
+    </section>
+{% endblock %}

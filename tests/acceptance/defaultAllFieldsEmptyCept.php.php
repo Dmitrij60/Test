@@ -1,0 +1,12 @@
+<?php use App\Tests\AcceptanceTester;
+$I = new AcceptanceTester($scenario);
+$I->wantTo('test form error');
+$I->amOnPage('http://127.0.0.1:8000/default');
+$I->fillField('Name', '');
+$I->seeInField('Name','');
+$I->fillField('Email','');
+$I->seeInField('Email','');
+$I->fillField('Message','');
+$I->seeInField('Message','');
+$I->click('message[send]');
+$I->dontSee('Success!');

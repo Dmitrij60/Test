@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/adapt" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lk48/vendor/friendsofsymfony/oauth-server-bundle" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lk48/vendor/friendsofsymfony/user-bundle" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/nails" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/onlinestore" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/otp" vcs="Git" />
+  </component>
+</project>
